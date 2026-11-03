@@ -45,7 +45,7 @@ function App() {
   return (
     <div className="app">
       <aside className="sidebar">
-        <h2>🛡️ ThreatGuard AI</h2>
+        <h2>🛡️ EMAIL THREAT DETECTION AI</h2>
         <p className="subtitle">EMAIL SECURITY PLATFORM</p>
 
         <nav>
